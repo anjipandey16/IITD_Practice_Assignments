@@ -51,6 +51,11 @@ profile = {
           "preferences": {
               "theme": "dark",
               "notifications": True
+          },
+          "name": "Ben",
+          "preferences": {
+              "theme": "dark",
+              "notifications": False
           }
       },
       "Admin": {
