@@ -1,4 +1,4 @@
-print("Assignment 1 :\n")
+print("Assignment 1 Module1: \n")
 list = (10,20,30,40,50,60,70,80,90,100)
 print("Question 1 Solutions :-")
 print(" 1- Answer:", list[0])
@@ -58,4 +58,5 @@ print("Question 7 Solutions :-")
 print("Before update:",profile)
 profile['user']['preferences']['theme']='light'
 print("After update:",profile)
+
 print(".............................................\n")
