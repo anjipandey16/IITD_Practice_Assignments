@@ -59,7 +59,7 @@ profile = {
           }
       },
       "Admin": {
-          "name": "Ben",
+          "name": "Admin1",
           "preferences": {
               "theme": "dark",
               "notifications": True
