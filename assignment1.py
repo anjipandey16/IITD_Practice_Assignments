@@ -52,6 +52,13 @@ profile = {
               "theme": "dark",
               "notifications": True
           }
+      },
+      "Admin": {
+          "name": "Ben",
+          "preferences": {
+              "theme": "dark",
+              "notifications": True
+          }
       }
 }
 print("Question 7 Solutions :-")
